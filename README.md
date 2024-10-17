@@ -12,7 +12,11 @@
 [![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=K0rosu&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0rosu&layout=compact&theme=transparent) 
 
-![snake gif](https://github.com/K0rosu/K0rosu/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k0rosu/k0rosu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k0rosu/k0rosu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/k0rosu/k0rosu/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **K0rosu/K0rosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
