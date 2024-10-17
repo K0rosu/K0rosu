@@ -4,8 +4,9 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational%logo=typescript)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+
 
 ## 📊 Statistics
 [![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=K0rosu&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
