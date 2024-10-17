@@ -1,11 +1,13 @@
-## Hi there 👋
+## Ola 👋
+Meu nome é Marcelo Seithi, tenho 21 anos e sou um estagiário dedicado no setor de Desenvolvimento de Software da Prefeitura de Taboão da Serra. Ao longo dos últimos meses, tenho adquirido conhecimentos básicos e valiosos em linguagens de programação como CSS, HTML, PHP e JavaScript, além de demonstrar proficiência em SQL para gerenciamento de bancos de dados. Eu já havia realizado alguns projetos utilizando Bootstrap para a prefeitura.
 
-## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational%logo=typescript)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
 ## 📊 Statistics
